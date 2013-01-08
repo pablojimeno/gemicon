@@ -25,6 +25,6 @@ dturqois@gmail.com
 
 Kind Regards,
 Turqois
-[http://turqois.com/](http://turqois.com)
-[twitter.com/dturqois](http://twitter.com/dturqois)
-[dribbble.com/dturqois](http://dribbble.com/dturqois)
+* [http://turqois.com/](http://turqois.com)
+* [twitter.com/dturqois](http://twitter.com/dturqois)
+* [dribbble.com/dturqois](http://dribbble.com/dturqois)
