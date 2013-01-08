@@ -6,10 +6,11 @@ Gemicon is free handcrafted icon set by Turqois, containing 600+ icons
 You are free to use and edit these icons for any personal or commercial work, (the linkback will very appreciated.
 You may NOT REDISTRIBUTE OR SELL these icon set on any other website or source.
 
-![Icons Preview](https://bitbucket.org/pablojimeno/gemicon/raw/)
+![Icons Preview](https://bitbucket.org/pablojimeno/gemicon/raw/673cfcd9f9db8fe42668cba9f47a844ebe999140/PNG/icons-preview.png)
 
 We also exciting and happy to know if you use this icon, please don't hestitate to contact us
 dturqois@gmail.com
+
 
 Kind Regards,
 Turqois
